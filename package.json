@@ -1,0 +1,12 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "this app is created to deploy in azure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesha MB <maheshmb2007@gmail.com> (https://github.com/maheshmb2007/nodejs-test)",
+  "license": "ISC"
+}
